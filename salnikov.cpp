@@ -1,7 +1,7 @@
 #include <iostream>
-
+//second commit for salnikov branch
 using namespace std;
-
+//commit for salnikov
 int main() {
     char op;
     double num1, num2;

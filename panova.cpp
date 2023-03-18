@@ -14,6 +14,8 @@ void bubbleSort(int arr[], int n) {
     }
 }
 
+// first commit in main
+
 int main() {
     int n, arr[100];
     cout << "Enter number of elements: ";
@@ -33,3 +35,5 @@ int main() {
 
     return 0;
 }
+
+//second commit
