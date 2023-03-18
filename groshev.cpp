@@ -24,6 +24,7 @@ int main() {
     } else {
         cout << "Roots are complex and different." << endl;
         cout << "x1 = " << -b / (2 * a) << "+" << sqrt(-discriminant) / (2 * a) << "i" << endl;
+        // Changes in cout function
         cout << "x2 = " << -b / (2 * a) << "-" << sqrt(-discriminant) / (2 * a) << "i" << endl;
     }
 
